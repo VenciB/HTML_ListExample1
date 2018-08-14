@@ -1,0 +1,21 @@
+h1 {
+  text-align: center;
+  font-size: 24pt;
+  color: green;
+}
+
+table {
+  border: 3px solid green;
+}
+.moonImg {
+  width: 600px;
+}
+
+#ableToSee {
+  color: blue;
+}
+
+.header1Title {
+  font-size: 48pt;
+  color: #9D00FF;
+}
